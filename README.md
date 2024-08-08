@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jaime Crow</h1>
 <h3 align="center">A highly dedicated and passionate frontend developer who loves learning new technologies</h3>
 
-- 🌱 I’m currently learning **React, React native, ruby, node.js**
+- 🌱 I’m currently learning **React, React native, node.js**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React** **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
