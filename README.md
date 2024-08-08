@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jaime Crow</h1>
+
+🔍 Intereses: Desarrollo de aplicaciones, aprendizaje de nuevas tecnologías, resolución de problemas complejos.
+
+🚀 Meta: Convertirme en un desarrollador experto, contribuyendo a soluciones tecnológicas innovadoras.
+
 - 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://crowdevcode.com](https://crowdevcode.com)
