@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **Cattle management program**
 
-- ⚡ Fun fact **Debugueando mi vida una línea de código a la vez. ¡Y sí, a veces me divierto haciéndolo!**
+- ⚡ **Debugueando mi vida una línea de código a la vez. ¡Y sí, a veces me divierto haciéndolo!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
