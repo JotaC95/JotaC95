@@ -1,9 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Jaime Crow</h1>
 <h3 align="center">Mechatronics Engineer building innovative projects and startups, combining modern development tools with continuous learning in Artificial Intelligence.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JotaC95&label=Profile%20views&color=0e75b6&style=flat" alt="JotaC95" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JotaC95&theme=" alt="JotaC95" /></a> </p>
 
 - 🔭 I’m currently working on [Cattle virtual fence ](https://github.com/JotaC95/cattle_virtual_fence)
 - 🌱 I’m currently learning **Cybersecurity, IA **
