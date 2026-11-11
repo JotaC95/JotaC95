@@ -1,35 +1,39 @@
 # Jaime Crow
 
-**Mechatronics Engineer | Software, IoT & Technical Systems**
+**Mechatronics Engineer · IT & Networking Student · Software / IoT Builder**
 
-Based in Melbourne, Australia. I build practical software and engineering solutions across automation, computer vision, networking and web applications. Currently developing my IT and networking expertise and open to technical opportunities in Australia.
+Based in Melbourne, Australia. I work at the intersection of physical systems and software: diagnosing technical problems, building applications, and exploring networking, automation and computer vision.
 
-### Selected work
+I'm interested in opportunities in **IT support, field engineering, network operations, automation, IoT and technical software development**.
 
-| Project | Focus | Repository |
+## Featured engineering & software projects
+
+| Project | What it demonstrates | Status |
 | --- | --- | --- |
-| Cattle Virtual Fence | Computer vision and livestock monitoring | [Explore](https://github.com/JotaC95/cattle_virtual_fence) |
-| HotelFlow | Hotel operations and housekeeping workflows | [Explore](https://github.com/JotaC95/HotelApp) |
-| Network Device Detector | Python, ARP discovery and network diagnostics | [Explore](https://github.com/JotaC95/netowrkDeviceDetector) |
-| VitaCat Vision AI | Computer vision experiments for livestock | Private repository; details on request |
+| [Cattle Virtual Fence](https://github.com/JotaC95/cattle_virtual_fence) | Python backend, mobile app, experimental computer-vision livestock monitoring | Prototype; not validated for animal containment |
+| [HotelFlow](https://github.com/JotaC95/HotelApp) | Hotel room operations, mobile workflows and backend integration | Work in progress |
+| [Network Device Detector](https://github.com/JotaC95/netowrkDeviceDetector) | Local-network ARP discovery, MAC/vendor lookup and CSV reporting | Learning / diagnostic tool |
 
-> Some projects are prototypes or works in progress. See individual repositories for verified features and setup instructions.
+**Additional work:** a 3D steel-structure web experience, plant-health computer vision, and other experiments. Some repositories are private or under active development; details can be shared when ready.
 
-### Technical toolkit
+## Technical capabilities
 
-**Engineering & IoT:** Mechatronics, Arduino, ESP32, sensors, troubleshooting  
-**Software:** Python, TypeScript, JavaScript, React, React Native, Next.js, Django  
-**Data & infrastructure:** PostgreSQL, REST APIs, Docker, Git, networking fundamentals  
-**Computer vision & 3D:** OpenCV, YOLO, Three.js
+- **Engineering & hardware:** mechatronics, electronics troubleshooting, sensors, Arduino, ESP32, equipment maintenance
+- **IT & networking:** network fundamentals, IP configuration, device diagnostics, CCTV/NVR configuration
+- **Development:** Python, TypeScript, JavaScript, React, React Native, Next.js, Django, REST APIs
+- **Tools & systems:** Git, Docker, PostgreSQL, OpenCV, YOLO, Three.js
 
-### What I am working toward
+## How I approach projects
 
-Technical roles spanning IT support, field service, networking, automation, IoT and software engineering. I enjoy connecting physical systems with useful digital products.
+1. Identify a real operational or technical problem.
+2. Build a small, testable prototype across hardware and software when appropriate.
+3. Document constraints, verify behavior, and iterate.
 
-### Connect
+My public repositories include experiments and works in progress. Their READMEs describe their current scope and limitations; prototypes should not be mistaken for production-certified systems.
+
+## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/jaimejosecrow/)
-- [GitHub](https://github.com/JotaC95)
-- [Email](mailto:jota.crow@gmail.com)
+- [GitHub projects](https://github.com/JotaC95?tab=repositories)
 
-*Project demonstrations, portfolio link and CV will be added after their current versions are verified.*
+*Portfolio website: being prepared. I will add the verified final link when the new portfolio is ready.*
